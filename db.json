@@ -1,0 +1,29 @@
+{
+  "products": [
+    { "product_id": 1, "name": "Tesla Model S", "description": "Electric sedan with autopilot", "price": 79999.99, "external_id": 101 },
+    { "product_id": 2, "name": "Ford Mustang", "description": "Classic American muscle car", "price": 55999.00, "external_id": 102 },
+    { "product_id": 3, "name": "Toyota Corolla", "description": "Reliable compact car", "price": 19999.99, "external_id": 103 },
+    { "product_id": 4, "name": "Chevrolet Camaro", "description": "High-performance sports car", "price": 42999.99, "external_id": 104 },
+    { "product_id": 5, "name": "BMW 3 Series", "description": "Luxury compact sedan", "price": 40999.99, "external_id": 105 },
+    { "product_id": 6, "name": "Audi Q5", "description": "Premium compact SUV", "price": 50999.99, "external_id": 106 },
+    { "product_id": 7, "name": "Honda Civic", "description": "Fuel-efficient compact car", "price": 22999.99, "external_id": 107 },
+    { "product_id": 8, "name": "Mercedes-Benz C-Class", "description": "Luxury sedan with advanced features", "price": 45999.99, "external_id": 108 },
+    { "product_id": 9, "name": "Hyundai Tucson", "description": "Affordable and spacious SUV", "price": 27999.99, "external_id": 109 },
+    { "product_id": 10, "name": "Kia Sorento", "description": "Mid-size SUV with modern design", "price": 35999.99, "external_id": 110 },
+    { "product_id": 11, "name": "Volkswagen Golf", "description": "Compact hatchback with sporty performance", "price": 24999.99, "external_id": 111 },
+    { "product_id": 12, "name": "Nissan Altima", "description": "Comfortable mid-size sedan", "price": 24999.99, "external_id": 112 },
+    { "product_id": 13, "name": "Subaru Outback", "description": "Rugged SUV with off-road capabilities", "price": 33999.99, "external_id": 113 },
+    { "product_id": 14, "name": "Mazda CX-5", "description": "Compact SUV with sleek styling", "price": 28999.99, "external_id": 114 },
+    { "product_id": 15, "name": "Porsche 911", "description": "Luxury sports car with iconic design", "price": 99999.99, "external_id": 115 },
+    { "product_id": 16, "name": "Jeep Wrangler", "description": "Off-road SUV with rugged build", "price": 38999.99, "external_id": 116 },
+    { "product_id": 17, "name": "Volvo XC90", "description": "Luxury SUV with safety features", "price": 62999.99, "external_id": 117 },
+    { "product_id": 18, "name": "Land Rover Defender", "description": "Premium off-road vehicle", "price": 69999.99, "external_id": 118 },
+    { "product_id": 19, "name": "Chevrolet Tahoe", "description": "Large SUV with ample space", "price": 50999.99, "external_id": 119 },
+    { "product_id": 20, "name": "Ford F-150", "description": "Best-selling pickup truck", "price": 45999.99, "external_id": 120 },
+    { "product_id": 21, "name": "Tesla Cybertruck", "description": "Futuristic electric pickup", "price": 69999.99, "external_id": 121 },
+    { "product_id": 22, "name": "Toyota Prius", "description": "Hybrid car with excellent mileage", "price": 25999.99, "external_id": 122 },
+    { "product_id": 23, "name": "Mini Cooper", "description": "Compact and stylish hatchback", "price": 23999.99, "external_id": 123 },
+    { "product_id": 24, "name": "Ferrari Roma", "description": "Luxury high-performance coupe", "price": 249999.99, "external_id": 124 },
+    { "product_id": 25, "name": "Lamborghini Urus", "description": "Luxury performance SUV", "price": 229999.99, "external_id": 125 }
+  ]
+}
